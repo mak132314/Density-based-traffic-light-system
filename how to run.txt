@@ -1,0 +1,3 @@
+Set-ExecutionPolicy RemoteSigned -Scope Process
+newenv\Scripts\activate
+python gui_traffic.py
